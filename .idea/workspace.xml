@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4570f07b-61c9-40f6-8f4a-0966b51bdf05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula01/d03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula06/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula06/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d009b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula07/d015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula08/d016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula08/d017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula01/d01.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula01/d01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula01/d02.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula01/d02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula01/d03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula01/inicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula01/inicio.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pUgeD3smc7ahTao3LzC7QftciC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.d004.executor": "Run",
+    "Python.d005.executor": "Run",
+    "Python.d006.executor": "Run",
+    "Python.d007.executor": "Run",
+    "Python.d008.executor": "Run",
+    "Python.d009.executor": "Run",
+    "Python.d01.executor": "Run",
+    "Python.d010.executor": "Run",
+    "Python.d011.executor": "Run",
+    "Python.d012.executor": "Run",
+    "Python.d013.executor": "Run",
+    "Python.d014.executor": "Run",
+    "Python.d015.executor": "Run",
+    "Python.d016.executor": "Run",
+    "Python.d017.executor": "Run",
+    "Python.d03.executor": "Run",
+    "Python.dtab.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex01.executor": "Run",
+    "Python.ex02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/thali/Documents/Estudos/Python/desafios",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thali\Documents\Estudos\Python\desafios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thali\Documents\Estudos\Python\aulas" />
+      <recent name="C:\Users\thali\Documents\Estudos\Python\exercicios\aula06" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4570f07b-61c9-40f6-8f4a-0966b51bdf05" name="Changes" comment="" />
+      <created>1732826160842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732826160842</updated>
+    </task>
+    <servers />
+  </component>
+</project>
