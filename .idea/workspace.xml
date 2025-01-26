@@ -5,33 +5,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4570f07b-61c9-40f6-8f4a-0966b51bdf05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula01/d03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula06/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula06/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d009b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula07/d015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula08/d016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula08/d017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/d01.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula01/d01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/d02.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula01/d02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/d03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/inicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula01/inicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula08/d018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula08/d019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula08/d020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula08/d021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula09/d022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula09/d023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula09/d024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula09/d025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula09/d026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula09/d027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula10/d035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula11/d045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula12/d056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula13/d065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula14/d066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula14/d067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula14/d068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula14/d069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula14/d070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula14/d071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15/d072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15/d073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15/d074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15/d075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15/d076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15/d077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula16/d078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula16/d079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula16/d080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula16/d081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula16/d082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula16/d083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula18/d090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula18/d091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula18/d092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula18/d093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +120,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.D034.executor": "Run",
     "Python.d004.executor": "Run",
     "Python.d005.executor": "Run",
     "Python.d006.executor": "Run",
@@ -76,12 +136,97 @@
     "Python.d015.executor": "Run",
     "Python.d016.executor": "Run",
     "Python.d017.executor": "Run",
+    "Python.d018.executor": "Run",
+    "Python.d019.executor": "Run",
+    "Python.d020.executor": "Run",
+    "Python.d021.executor": "Run",
+    "Python.d022.executor": "Run",
+    "Python.d023.executor": "Run",
+    "Python.d024.executor": "Run",
+    "Python.d025.executor": "Run",
+    "Python.d026.executor": "Run",
+    "Python.d027.executor": "Run",
+    "Python.d028.executor": "Run",
+    "Python.d029.executor": "Run",
     "Python.d03.executor": "Run",
+    "Python.d030.executor": "Run",
+    "Python.d031.executor": "Run",
+    "Python.d032.executor": "Run",
+    "Python.d033.executor": "Run",
+    "Python.d035.executor": "Run",
+    "Python.d036.executor": "Run",
+    "Python.d037.executor": "Run",
+    "Python.d038.executor": "Run",
+    "Python.d039.executor": "Run",
+    "Python.d040.executor": "Run",
+    "Python.d041.executor": "Run",
+    "Python.d042.executor": "Run",
+    "Python.d043.executor": "Run",
+    "Python.d044.executor": "Run",
+    "Python.d045.executor": "Run",
+    "Python.d046.executor": "Run",
+    "Python.d047.executor": "Run",
+    "Python.d048.executor": "Run",
+    "Python.d049.executor": "Run",
+    "Python.d050.executor": "Run",
+    "Python.d051.executor": "Run",
+    "Python.d052.executor": "Run",
+    "Python.d053.executor": "Run",
+    "Python.d054.executor": "Run",
+    "Python.d055.executor": "Run",
+    "Python.d056.executor": "Run",
+    "Python.d057.executor": "Run",
+    "Python.d058.executor": "Run",
+    "Python.d059.executor": "Run",
+    "Python.d060.executor": "Run",
+    "Python.d061.executor": "Run",
+    "Python.d062.executor": "Run",
+    "Python.d063.executor": "Run",
+    "Python.d064.executor": "Run",
+    "Python.d065.executor": "Run",
+    "Python.d066.executor": "Run",
+    "Python.d067.executor": "Run",
+    "Python.d068.executor": "Run",
+    "Python.d069.executor": "Run",
+    "Python.d070.executor": "Run",
+    "Python.d071.executor": "Run",
+    "Python.d072.executor": "Run",
+    "Python.d073.executor": "Run",
+    "Python.d074.executor": "Run",
+    "Python.d075.executor": "Run",
+    "Python.d076.executor": "Run",
+    "Python.d077.executor": "Run",
+    "Python.d078.executor": "Run",
+    "Python.d079.executor": "Run",
+    "Python.d080.executor": "Run",
+    "Python.d081.executor": "Run",
+    "Python.d082.executor": "Run",
+    "Python.d083.executor": "Run",
+    "Python.d084.executor": "Run",
+    "Python.d085.executor": "Run",
+    "Python.d086.executor": "Run",
+    "Python.d087.executor": "Run",
+    "Python.d088.executor": "Run",
+    "Python.d089.executor": "Run",
+    "Python.d090.executor": "Run",
+    "Python.d091.executor": "Run",
+    "Python.d092.executor": "Run",
+    "Python.d093.executor": "Run",
     "Python.dtab.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex01.executor": "Run",
     "Python.ex02.executor": "Run",
+    "Python.ex03.executor": "Run",
+    "Python.ex04.executor": "Run",
+    "Python.ex05.executor": "Run",
+    "Python.ex06.executor": "Run",
+    "Python.ex07.executor": "Run",
+    "Python.ex08.executor": "Run",
+    "Python.ex09.executor": "Run",
+    "Python.ex10.executor": "Run",
+    "Python.t.executor": "Run",
+    "Python.tes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
