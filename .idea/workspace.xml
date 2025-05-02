@@ -5,92 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4570f07b-61c9-40f6-8f4a-0966b51bdf05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula 17/d089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula08/d018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula08/d019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula08/d020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula08/d021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula09/d022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula09/d023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula09/d024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula09/d025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula09/d026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula09/d027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula10/d035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula11/d045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula12/d056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula13/d065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula14/d066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula14/d067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula14/d068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula14/d069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula14/d070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula14/d071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula15/d072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula15/d073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula15/d074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula15/d075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula15/d076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula15/d077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula16/d078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula16/d079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula16/d080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula16/d081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula16/d082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula16/d083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula18/d090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula18/d091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula18/d092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula18/d093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula18/d094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula18/d095.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/aula18/d093.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula18/d093.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +130,8 @@
     "Python.d091.executor": "Run",
     "Python.d092.executor": "Run",
     "Python.d093.executor": "Run",
+    "Python.d094.executor": "Run",
+    "Python.d095.executor": "Run",
     "Python.dtab.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
@@ -246,7 +166,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>

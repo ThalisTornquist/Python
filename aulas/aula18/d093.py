@@ -21,6 +21,7 @@ print()
 for k, v in d.items():
     print(f'O campo {k} recebe {v}.')
 
+
 print(f'O jogador {d['nome']} jogou {p} partidas')
 
 print()
