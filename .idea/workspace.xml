@@ -5,10 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4570f07b-61c9-40f6-8f4a-0966b51bdf05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/aula18/d094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/aula18/d095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula01/a001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula02/a002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula03/a003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula04/a004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula04/musica.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula05/a005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula06/a006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/aula07/a007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/ex025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/estrutura-dados/teste01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculdade/exercicios/ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/aula18/d093.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula18/d093.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +50,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/faculdade/aula01/a001.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -38,7 +74,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.D034.executor": "Run",
+    "Python.a001.executor": "Run",
+    "Python.a002.executor": "Run",
+    "Python.a003.executor": "Run",
+    "Python.a004.executor": "Run",
+    "Python.a005.executor": "Run",
+    "Python.a006.executor": "Run",
+    "Python.a007.executor": "Run",
     "Python.d004.executor": "Run",
     "Python.d005.executor": "Run",
     "Python.d006.executor": "Run",
@@ -133,10 +177,31 @@
     "Python.d094.executor": "Run",
     "Python.d095.executor": "Run",
     "Python.dtab.executor": "Run",
+    "Python.ew023.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
     "Python.ex01.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
     "Python.ex02.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
     "Python.ex03.executor": "Run",
     "Python.ex04.executor": "Run",
     "Python.ex05.executor": "Run",
@@ -147,21 +212,28 @@
     "Python.ex10.executor": "Run",
     "Python.t.executor": "Run",
     "Python.tes.executor": "Run",
+    "Python.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/thali/Documents/Estudos/Python/desafios",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "last_opened_file_path": "C:/Users/thali/Documents/Estudos/Python/faculdade/exercicios/estrutura-dados",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thali\Documents\Estudos\Python\faculdade\exercicios\estrutura-dados" />
       <recent name="C:\Users\thali\Documents\Estudos\Python\desafios" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\thali\Documents\Estudos\Python\aulas" />
       <recent name="C:\Users\thali\Documents\Estudos\Python\exercicios\aula06" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
